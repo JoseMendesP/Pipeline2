@@ -1,0 +1,10 @@
+0: {'name': 'Dupont', 'total_envoye': 21821.6}€
+1: {'name': 'Garnier', 'total_envoye': 28553.969999999998}€
+2: {'name': 'Martin', 'total_envoye': 29935.55}€
+3: {'name': 'Petit', 'total_envoye': 17880.84}€
+4: {'name': 'Fournier', 'total_envoye': 35441.36}€
+5: {'name': 'Girard', 'total_envoye': 17908.61}€
+6: {'name': 'Blanc', 'total_envoye': 13627.220000000003}€
+7: {'name': 'Moreau', 'total_envoye': 44868.2}€
+8: {'name': 'Bernard', 'total_envoye': 19876.24}€
+9: {'name': 'Durand', 'total_envoye': 35103.41}€
